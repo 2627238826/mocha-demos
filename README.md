@@ -43,5 +43,4 @@ Now, play with the other examples under the repo's demo* directories.
 - [demo09: generating spec](https://github.com/ruanyf/mocha-demos/tree/master/demo09)
 
 ## License
-
-MIT
+源码来源：https://github.com/ruanyf/mocha-demos
